@@ -39,5 +39,3 @@ Projet statique : aucune étape de build.
    ```
 
    Puis ouvrir l’URL indiquée (souvent `http://localhost:3000`).
-
-```
