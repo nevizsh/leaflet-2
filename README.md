@@ -1,4 +1,4 @@
-# Bornes de recharge — Nouvelle-Calédonie (Leaflet)
+# TP Bornes de recharge — Nouvelle-Calédonie (Leaflet)
 
 Petite application web carte interactive des **bornes de recharge pour véhicules électriques** en Nouvelle-Calédonie, alimentée par les données ouvertes du gouvernement.
 
